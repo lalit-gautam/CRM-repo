@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -24,4 +24,39 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+} */
+
+/* .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border-bottom: 1px solid rgb(240, 235, 235); */
+/* }  */
+
+/* .header_left{
+  display: flex;
+  align-items: center;
 }
+
+.header_middle{
+  display: flex;
+  flex: 07;
+  align-items: center;
+  background-color: rgb(113, 29, 29);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.header_middle > input{
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.input_search_box{
+  width: 700px;
+}
+
+.sidebar__compose{
+  margin-top: 20px; */
+/* }  */
